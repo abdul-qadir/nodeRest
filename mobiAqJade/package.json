@@ -1,0 +1,14 @@
+{
+  "name": "mobiAqJade",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "3.2.6",
+    "jade": "*",
+    "node-salesforce": "^0.8.0"
+  }
+}
